@@ -1,5 +1,5 @@
 from distutils.core import setup
-setup(name='logger',
+setup(name='getlogger',
         version='1.0',
-        py_modules=['logger'],
+        py_modules=['getlogger'],
 )
